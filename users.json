@@ -1,5 +1,44 @@
-{{"user":{"username":"Test1","password":"1","ban":"0","destruct":"0"}},:
-{"user":{"username":"Test2","password":"2","ban":"2","destruct":"0"}},
-{"user":{"username":"Test3","password":"3","ban":"1","destruct":"0"}},
-{"user":{"username":"Test4","password":"4","ban":"0","destruct":"1"}},
-{"user":{"username":"Test5","password":"5","ban":"5","destruct":"0"}}}
+{
+  "users": [
+    {
+      "user": {
+        "username": "Test1",
+        "password": "1",
+        "ban": "0",
+        "destruct": "0"
+      }
+    },
+    {
+      "user": {
+        "username": "Test2",
+        "password": "2",
+        "ban": "2",
+        "destruct": "0"
+      }
+    },
+    {
+      "user": {
+        "username": "Test3",
+        "password": "3",
+        "ban": "1",
+        "destruct": "0"
+      }
+    },
+    {
+      "user": {
+        "username": "Test4",
+        "password": "4",
+        "ban": "0",
+        "destruct": "1"
+      }
+    },
+    {
+      "user": {
+        "username": "Test5",
+        "password": "5",
+        "ban": "5",
+        "destruct": "0"
+      }
+    }
+  ]
+}
