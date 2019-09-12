@@ -1,58 +1,41 @@
 {
   "users": [
     {
-      "user": {
-        "username": "ADMIN",
-        "password": "ADMIN",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "ADMIN",
+      "password": "ADMIN",
+      "userID": 0
     },
     {
-      "user": {
-        "username": "alexs",
-        "password": "1",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "alexs",
+      "password": "1",
+      "userID": 1
     },
     {
-      "user": {
-        "username": "elio",
-        "password": "2",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "elio",
+      "password": "2",
+      "userID": 2
     },
     {
-      "user": {
-        "username": "joshuaj",
-        "password": "3",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "joshuaj",
+      "password": "3",
+      "userID": 3
     },
     {
-      "user": {
-        "username": "tristand",
-        "password": "4",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "tristand",
+      "password": "4",
+      "userID": 4
     },
     {
-      "user": {
-        "username": "rahuls",
-        "password": "4",
-        "bandate": "000000",
-        "banreason": "...",
-        "destruct": false
-      }
+      "username": "rahuls",
+      "password": "5",
+      "userID": 5
+    }
+  ],
+  "bans": [
+    {
+      "userID": 2,
+      "date": "9/13/2019",
+      "destruct": false
     }
   ]
 }
