@@ -1,1 +1,58 @@
-{"users":[{"user":{"username":"ADMIN","password":"ADMIN","bandate":"000000","banreason":"...","destruct":false}},{"user":{"username":"alexs","password":"1","bandate":"000000","banreason":"...","destruct":false}},{"user":{"username":"elio","password":"2","bandate":"000000","banreason":"...","destruct":false}},{"user":{"username":"joshuaj","password":"3","bandate":"000000","banreason":"...","destruct":false}},{"user":{"username":"tristand","password":"4","bandate":"000000","banreason":"...","destruct":true}}]}
+{
+  "users": [
+    {
+      "user": {
+        "username": "ADMIN",
+        "password": "ADMIN",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    },
+    {
+      "user": {
+        "username": "alexs",
+        "password": "1",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    },
+    {
+      "user": {
+        "username": "elio",
+        "password": "2",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    },
+    {
+      "user": {
+        "username": "joshuaj",
+        "password": "3",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    },
+    {
+      "user": {
+        "username": "tristand",
+        "password": "4",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    },
+    {
+      "user": {
+        "username": "rahuls",
+        "password": "4",
+        "bandate": "000000",
+        "banreason": "...",
+        "destruct": false
+      }
+    }
+  ]
+}
