@@ -4,3 +4,4 @@ Rules:
 3. Default username is firstnamelastinitial, for example, if my name is Bob Joe, my username is bobj.
 4. The default password is your user number, for example, if i am user number 9, my password is 9.
 5. Have fun! 
+6. Change your password as soon as possible with the MD5 hashing algorithim, or just ask Eli.
