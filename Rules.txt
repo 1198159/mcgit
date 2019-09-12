@@ -1,0 +1,6 @@
+Rules:
+1. Do not mess with ADMIN account.
+2. Do not change destruct to "true" without my(Alex's) permission.
+3. Default username is firstnamelastinitial, for example, if my name is Bob Joe, my username is bobj.
+4. The default password is your user number, for example, if i am user number 9, my password is 9.
+5. Have fun! 
