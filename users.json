@@ -34,8 +34,9 @@
   "bans": [
     {
       "userID": 2,
-      "date": "9/13/2019",
-      "destruct": false
+      "date": "9/13/19",
+      "destruct": false,
+      "reason": "Test."
     }
   ]
 }
