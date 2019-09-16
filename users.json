@@ -7,7 +7,7 @@
     },
     {
       "username": "alexs",
-      "password": "1",
+      "password": "b2cfa4183267af678ea06c7407d4d6d8",
       "userID": 1
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "username": "tristand",
-      "password": "4",
+      "password": "b2cfa4183267af678ea06c7407d4d6d8",
       "userID": 4
     },
     {
@@ -33,10 +33,10 @@
   ],
   "bans": [
     {
-      "userID": 2,
-      "date": "9/13/19",
+      "userID": 4,
+      "date": "9/17/19",
       "destruct": false,
-      "reason": "Test."
+      "reason": "Test...."
     }
   ]
 }
