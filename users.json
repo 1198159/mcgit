@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "ADMIN",
-      "password": "ADMIN",
+      "password": "25f9e794323b453885f5181f1b624d0b",
       "userID": 0
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "username": "joshuaj",
-      "password": "3",
+      "password": "25f9e794323b453885f5181f1b624d0b",
       "userID": 3
     },
     {
@@ -27,8 +27,13 @@
     },
     {
       "username": "rahuls",
-      "password": "5",
+      "password": "25f9e794323b453885f5181f1b624d0b",
       "userID": 5
+    },
+    {
+      "username": "deanee",
+      "password": "25f9e794323b453885f5181f1b624d0b",
+      "userID": 6
     }
   ],
   "bans": [
